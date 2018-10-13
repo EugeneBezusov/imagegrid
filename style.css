@@ -1,0 +1,118 @@
+.body {
+    margin: 0 auto;
+    width: 1200px;
+    height: 1000px;
+}
+.coll1 {
+    width: 100%;
+    float: left;
+}
+.first {
+    background-color: #b0dec0;
+    width: calc(50% - 5px);
+    height: 150px;
+    float: left;
+    border: 5px solid white;
+    box-sizing: border-box;
+}
+.coll2 {
+    width: 100%;
+    float: left;
+}
+.first1 {
+    background-color:#f86a8b;
+    width: calc(50% - 5px);
+    height: 320px;
+    float: left;
+    box-sizing: border-box;
+    border: 5px white solid;
+}
+.first2 {
+    width: calc(50%);
+    height: 320px;
+    float: left;
+    box-sizing: border-box;
+}
+.second1 {
+    width: calc(100% - 5px);
+    height: 160px;
+    float: left;
+    box-sizing: border-box;
+}
+.third {
+    background-color: #8b97ec;
+    width: 33.33%;
+    height: 160px;
+    float: left;
+    box-sizing: border-box;
+    border: 5px solid white;
+}
+.third2 {
+    background-color:#fec470;
+    width: 50%;
+    height: 160px;
+    float: left;
+    box-sizing: border-box;
+    border: 5px solid white;
+}
+
+.second2 {
+    width: calc(100% - 5px);
+    height: 160px;
+    float: left;
+    box-sizing: border-box;
+}
+.coll3 {
+    width: 100%;
+    float: left;
+}
+.first3 {
+    background-color: #5b8dc5;
+    width: calc(33% - 5px);
+    height: 160px;
+    float: left;
+    box-sizing: border-box;
+    border: 5px solid white;
+}
+.first4 {
+    width: 34%;
+    height: 160px;
+    float: left;
+    box-sizing: border-box;
+}
+.third3 {
+    background-color: #5b8dc5;
+    width: 50%;
+    height: 160px;
+    float: left;
+    box-sizing: border-box;
+    border: 5px solid white;
+}
+.coll4 {
+    width: 100%;
+    float: left;
+}
+.last1 {
+    background-color: #6655aa;
+    width: calc(15% - 5px);
+    height: 160px;
+    float: left;
+    box-sizing: border-box;
+    border: 5px solid white;
+}
+.last2 {
+    background-color: #6655aa;
+    width: calc(51% - 5px);
+    height: 160px;
+    float: left;
+    box-sizing: border-box;
+    border: 5px solid white;
+}
+.last3 {
+    background-color: #6655aa;
+    width: 34%;
+    height: 160px;
+    float: left;
+    box-sizing: border-box;
+    border: 5px solid white;
+}
